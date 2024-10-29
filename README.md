@@ -6,7 +6,7 @@ Numpy Version: 1.13.3
 Scipy Version: 0.19.1
 Matplotlib Version: 2.1.0
 
-Project: The Dynamics of Solitons (Project 3)
+Project: The Dynamics of Solitons. Undertaken as part of the Computational Physics module during my undergraduate degree at Imperial College London.
 
 This project contains the following:
 Animation Scripts - Singe_Soliton_ani.py, Singe_Soliton_Compare_ani.py, Two_Solitons_ani.py, Two_Solitons_Overlay_ani.py, Shockwave_ani.py
